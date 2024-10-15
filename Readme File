@@ -1,0 +1,12 @@
+# Hello World Program in C++
+
+This repository contains a simple C++ program that prints "Hello, World!" to the console. This is a classic introductory program for learning programming and serves as a basic example of how to write, compile, and run a C++ program.
+
+## Getting Started
+
+To get started with this program, you'll need to have a C++ compiler installed on your system. The instructions below show you how to compile and run the program.
+
+### Prerequisites
+
+- A C++ compiler, such as `g++`, which is available with the [GNU Compiler Collection](https://gcc.gnu.org/).
+- Alternatively, you can use an integrated development environment (IDE) like [Visual Studio Code](https://code.visualstudio.com/), [Code::Blocks](http://www.codeblocks.org/), or [Dev-C++](https://bloodshed.net/).
